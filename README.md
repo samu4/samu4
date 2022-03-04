@@ -18,4 +18,4 @@ Experienced on statistical analysis and data visualization techniques 🤔
 
 # Projects
 
-[Data science journey in banking sector](https://careers.un.org/lbw/jobdetail.aspx?id=174052&Lang=en-US)
+[Data science journey in banking sector](https://github.com/samu4/data-consolidation-with-python/blob/master/data_consolidation.ipynb)
