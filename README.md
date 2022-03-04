@@ -18,4 +18,8 @@ Experienced on statistical analysis and data visualization techniques 🤔
 
 # Projects
 
-[Data science journey in banking sector](https://github.com/samu4/data-consolidation-with-python/blob/master/data_consolidation.ipynb)
+## [Data science journey in banking sector](https://github.com/samu4/data-consolidation-with-python/blob/master/data_consolidation.ipynb)
+
+## [shiny dashboard for sales and analytics](https://sam2019.shinyapps.io/sales) 
+
+to logins: <br> username **a** <br> password **a**
