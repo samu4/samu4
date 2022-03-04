@@ -1,8 +1,5 @@
-### Hi there 👋
-
-**samu4/samu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hello there, Data Science Community👋
+I am Samuel currently working as Data Analyst with Bank of Kigali.
 
 - 🔭 I’m currently working on data quality control and regulatory reporting
 - 🌱 I’m currently learning Machine learning to apply on staff performance gap indification and also involved on climate change writing
@@ -13,3 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Skills and expertise
+
+Experienced on statistical analysis and data visualization techniques 🤔
