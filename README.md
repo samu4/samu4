@@ -13,3 +13,9 @@ I am Samuel currently working as Data Analyst with Bank of Kigali.
 # Skills and expertise
 
 Experienced on statistical analysis and data visualization techniques 🤔
+
+
+
+# Projects
+
+[Data science journey in banking sector](https://careers.un.org/lbw/jobdetail.aspx?id=174052&Lang=en-US)
