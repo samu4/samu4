@@ -16,6 +16,7 @@ I am Samuel currently working as Data Analyst with Bank of Kigali.
 <br>. Machine learning to uncover business opportunities by clustering demand verses sastifaction levels
 <br>. Climate change obervatory using AI and BigData tools
 <br>. Analytical visualisations
+Reporting expert
 
 
 # Projects
