@@ -25,9 +25,9 @@ always translates complex transactions into visuals that gives easy visibility t
 <br>. Climate change obervatory using AI and BigData tools
 <br>. Analytical visualisations
 Reporting expert
-<br>. Probabilities & Statistics 
+<br>. Probability and Statistics techniques 
 <br>. Data Structures & Algorithms🗜️
-
+<br>. Behavioral science analysis-Trend , seasonality, detrends, and index interpretations in business enterprise 🗘
 
 # Projects ♾️
 
