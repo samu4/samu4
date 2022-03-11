@@ -8,7 +8,7 @@ I am Kenyan by birth, holding MSC in Mathematical sciences and 4 years Bachelor 
 
 
 I help the bank stakeholder on different data access, analsysis and developing statistical techniques to support banks decision making⚡ 
-always translates complex transactions into visuals that gives easy visibility to management💬.
+always translates complex transactions into visuals that gives easy visibility to management💬. Further, I do outline challenges and propose solutions based on deep scientific research.
 
 - 🔭 I’m currently working on data quality control and regulatory reporting
 - 🌱 I’m currently learning Machine learning to apply on staff performance gap indification and also involved on climate change writing
@@ -21,16 +21,23 @@ always translates complex transactions into visuals that gives easy visibility t
 # Skills and expertise
 
 <br>. Experienced on statistical analysis and data visualization techniques 🤔
-<br>. Machine learning to uncover business opportunities by clustering demand verses sastifaction levels
+<br>. Machine learning to uncover business opportunities by clustering demand verses sastifaction levels🔢
 <br>. Climate change obervatory using AI and BigData tools
 <br>. Analytical visualisations
 Reporting expert
+<br>. Probabilities & Statistics 
+<br>. Data Structures & Algorithms🗜️
 
 
-# Projects
+# Projects ♾️
 
 ## [Data science journey in banking sector](https://github.com/samu4/data-consolidation-with-python/blob/master/data_consolidation.ipynb)
 
 ## [shiny dashboard for sales and analytics](https://sam2019.shinyapps.io/sales) 
 
 to logins: <br> username **a** <br> password **a**
+
+
+# Let us connect
+
+
