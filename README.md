@@ -10,9 +10,14 @@ I am Kenyan by birth, holding MSC in Mathematical sciences and 4 years Bachelor 
 I help the bank stakeholder on different data access, analsysis and developing statistical techniques to support banks decision making⚡ 
 always translates complex transactions into visuals that gives easy visibility to management💬. Further, I do outline challenges and propose solutions based on deep scientific research.
 
-- 🔭 I’m currently working on data quality control and regulatory reporting
-- 🌱 I’m currently learning Machine learning to apply on staff performance gap indification and also involved on climate change writing
-- 👯 I’m looking to collaborate on climate experts to help solve bigger challenges and have a long term fix on food and basic commodities in our society
+- 🔭 I’m currently working on data quality control, management and regulatory reporting processes
+- 🌱 Data management and implememntation of Data lake 
+- 🏦 ETL taskforce on Third Party Data; external application apart from T24 transact
+- 🌱 I’m currently using learning Machine learning to apply on staff performance gap indification and also involved on climate change writing
+
+# Look forward
+
+- 👯 I’m looking to collaborate on data management experts to help solve bigger challenges and have a long term fix on food, financial inclusion and basic commodities in our society
 - 🤔 I’m looking for help with better work place to stretch my capabilities in helping the socity in bttter ecosytstem
 - 💬 Ask me about sentiment analsysis, churn analysis, and any statistical analysis like set spread out.. eg skills, climate
 
@@ -40,5 +45,5 @@ to logins: <br> username **a** <br> password **a**
 
 # Let us connect
 
-Twitter, linkedin, whatsapp
+Twitter, linkedin, whatsapp +254715727037
 
