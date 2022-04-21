@@ -1,6 +1,6 @@
 # Hello there, Data Science Community👋
 
-Samuel is currently working as Data Analyst with Bank of Kigali.
+Samuel is currently working as BI Data Analyst with Bank of Kigali.
 
 I am Kenyan by birth, holding MSC in Mathematical sciences and 4 years Bachelor degree in Mathematics🌱.
 
