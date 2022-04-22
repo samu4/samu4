@@ -39,7 +39,7 @@ Reporting expert
 ## [Data science journey in banking sector](https://github.com/samuel-philip/data-consolidation-with-python/blob/master/data_consolidation.ipynb)
 
 ## [shiny dashboard for sales and analytics](https://sam2019.shinyapps.io/sales) 
-## [Analytical Dashboard documnentation] (https://docs.google.com/document/d/1pCrTIUj8QHwYF2PoIBgSLX_rWPPfpkK0zXlTRpqlr8M/edit#)
+
 to logins: <br> username **a** <br> password **a**
 
 
