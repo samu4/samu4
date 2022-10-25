@@ -26,6 +26,7 @@ always translates complex transactions into visuals that gives easy visibility t
 # Skills and expertise
 
 <br>. Experienced on statistical analysis and data visualization techniques 🤔
+<br>. Dashboard creation and management
 <br>. Machine learning to uncover business opportunities by clustering demand verses sastifaction levels🔢
 <br>. Climate change obervatory using AI and BigData tools
 <br>. Analytical visualisations
