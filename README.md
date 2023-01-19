@@ -7,7 +7,7 @@ I am Kenyan by birth, holding MSC in Mathematical sciences and 4 years Bachelor 
 
 
 
-I help the bank stakeholder on different data access, analsysis and developing statistical techniques to support banks decision making⚡ 
+I help the bank stakeholder on different data access, analsysis and developing statistical techniques to support banks in data visualization and decision making⚡ 
 always translates complex transactions into visuals that gives easy visibility to management💬. Further, I do outline challenges and propose solutions based on deep scientific research.
 
 - 🔭 I’m currently working on data quality control, management and regulatory reporting processes
